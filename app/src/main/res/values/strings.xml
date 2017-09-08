@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add">Add</string>
+    <string name="multiply">Multiply</string>
+    <string name="answer">Answer:</string>
+    <string name="upper_bound_limit">Upper limit:</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong. The correct answer is:</string>
+</resources>
